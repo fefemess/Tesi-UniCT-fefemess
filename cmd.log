@@ -3,11 +3,11 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/fefem/OneDrive - Università degli Studi di Catania/Desktop/Uni/unict-thesis-template/unict.tex"
-(c:/Users/fefem/OneDrive - Università degli Studi di Catania/Desktop/Uni/unict-thesis-template/unict.tex
+**"c:/Users/fefem/OneDrive - Università degli Studi di Catania/Desktop/Uni/unict-thesis-template/cmd.tex"
+(c:/Users/fefem/OneDrive - Università degli Studi di Catania/Desktop/Uni/unict-thesis-template/cmd.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
-(./cmd.tex (c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
+(c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
 (c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
@@ -208,214 +208,19 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count287
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count288
-)) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count289
-\l__pdf_internal_box=\box57
-) (./unict.aux)
-\openout1 = `unict.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Info: Redefining \it@ocap on input line 8.
-LaTeX Info: Redefining \it@ccap on input line 8.
-
-
-File italian.ldf warning: 
-italian.ldf    With OT1 encoding guillemets are poorly faked
-italian.ldf    Use T1 encoding
-italian.ldf    or specify a font with command \CaporaliFrom
-italian.ldf    See the documentation concerning the babel-italian typesetting
-italian.ldf    on input line 8.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=591.5302pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-7.86334pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen171
-\scratchbox=\box58
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen172
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks30
-) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: End \AtBeginDocument code.
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(85.35826pt, 645.87756pt, 113.81102pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=645.87756pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-23.91173pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+! Emergency stop.
+<*> .../Desktop/Uni/unict-thesis-template/cmd.tex"
+                                                  
+*** (job aborted, no legal \end found)
 
-<images/logo.png, id=1, 225.84375pt x 225.84375pt>
-File: images/logo.png Graphic file (type png)
-<use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 20.
-(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
- [1
-
-
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/logo.png>] [2] (./unict.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
- (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
- (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write3
-\openout3 = `unict.toc'.
-
- [3
-
-
-] (./unict.lot)
-\tf@lot=\write4
-\openout4 = `unict.lot'.
-
- [4
-
-] (./unict.lof)
-\tf@lof=\write5
-\openout5 = `unict.lof'.
-
- [5
-
-]
-Capitolo 1.
-(./chapters/introduzione.tex) [1
-
-
-]
-Capitolo 2.
-(./chapters/cap1.tex [2
-
-])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
-Capitolo 3.
-(./chapters/cap2.tex) [4
-
-]
-Capitolo 4.
-(./chapters/cap3.tex) [5
-
-]
-Capitolo 5.
-(./chapters/conclusioni.tex) [6
-
-]
-Capitolo 6.
-(./chapters/ringraziamenti.tex) (./chapters/bibliografia.tex [7
-
-]) [8
-
-] (./unict.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
- ***********
- ) 
+ 
 Here is how much of TeX's memory you used:
- 6421 strings out of 474104
- 103515 string characters out of 5747503
- 1930496 words of memory out of 5000000
- 28712 multiletter control sequences out of 15000+600000
- 564090 words of font info for 58 fonts, out of 8000000 for 9000
+ 5607 strings out of 474104
+ 88137 string characters out of 5747503
+ 1925496 words of memory out of 5000000
+ 27971 multiletter control sequences out of 15000+600000
+ 558367 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,80p,921b,303s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on unict.pdf (13 pages, 96795 bytes).
-PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 67i,0n,77p,396b,104s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

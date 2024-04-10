@@ -2,5 +2,9 @@
 \babel@toc {italian}{}\relax 
 \contentsline {chapter}{\numberline {1}Introduzione}{1}{}%
 \contentsline {chapter}{\numberline {2}Titolo del capitolo 1}{2}{}%
-\contentsline {chapter}{\numberline {3}Titolo del capitolo 2}{3}{}%
-\contentsline {chapter}{\numberline {4}Conclusioni}{4}{}%
+\contentsline {section}{\numberline {2.1}paragraph}{2}{}%
+\contentsline {section}{\numberline {2.2}Boh}{3}{}%
+\contentsline {chapter}{\numberline {3}Titolo del capitolo 2}{4}{}%
+\contentsline {chapter}{\numberline {4}Titolo del capitolo 3}{5}{}%
+\contentsline {chapter}{\numberline {5}Conclusioni}{6}{}%
+\contentsline {chapter}{\numberline {6}Ringraziamenti}{7}{}%
